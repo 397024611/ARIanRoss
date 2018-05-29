@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene_game1.0.unity
+- path: Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene 1.unity
   isLoaded: 1
   isActive: 1
